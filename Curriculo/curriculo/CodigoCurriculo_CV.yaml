@@ -1,0 +1,70 @@
+cv:
+  name: "Matheus Ferreira Camillo"
+  location: "Araxá - MG, Brasil"
+  email: "camillomatheus157@gmail.com"
+  phone: "+5534999244306"
+
+  social_networks:
+    - network: "LinkedIn"
+      username: "matheus-camillo-459464352"
+    - network: "GitHub"
+      username: "Matheus-dot-ut"
+
+  sections:
+
+    about_me:
+      - "Estudante de Sistemas de Informação com foco em dados, automação e melhoria de processos. Experiência na Nestlé apoiando rotinas internas, estruturando informações e desenvolvendo soluções que aumentam a eficiência operacional. Busco oportunidades na área de tecnologia para aplicar meus conhecimentos e evoluir profissionalmente."
+
+    educacao:
+      - label: "Graduando em Sistemas de Informação — Centro Universitário UniAraxá"
+        start_date: "2025-02"
+        end_date: "present"
+        details: "Cursando 3º período"
+
+    experience:
+      - company: "Nestlé"
+        position: "Jovem Aprendiz"
+        start_date: "2025-09"
+        end_date: "present"
+        highlights:
+          - "Organização e análise de dados utilizados em relatórios internos, contribuindo para decisões operacionais."
+          - "Aplicação da metodologia 5S para melhoria da organização e redução de retrabalhos."
+          - "Criação e manutenção de controles em planilhas e ferramentas colaborativas, otimizando o fluxo de informações do setor."
+
+    personal_projects:
+      - name: "Automação de Processos com Python"
+        description: "Automação de tarefas internas para reduzir trabalho manual e padronizar informações."
+        highlights:
+          - "Automação de cadastros e manipulação de dados."
+          - "Redução de tarefas repetitivas e aumento da eficiência."
+          - "Tratamento e estruturação de dados para análises posteriores."
+
+      - name: "Consolidação e Padronização de Dados em Excel"
+        description: "Integração e organização de dados para facilitar análises gerenciais."
+        highlights:
+          - "Unificação de múltiplas planilhas em uma base estruturada."
+          - "Padronização e limpeza de dados."
+          - "Apoio à tomada de decisão com dados consolidados."
+
+      - name: "Dashboard de Indicadores (Power BI)"
+        description: "Desenvolvimento de dashboards interativos para monitoramento de KPIs."
+        highlights:
+          - "Criação de dashboards dinâmicos e intuitivos."
+          - "Transformação de dados brutos em insights visuais."
+          - "Suporte à análise de desempenho por meio de visualização de dados."
+
+    skills:
+      - label: "Habilidades Técnicas"
+        details: |
+          - Excel e SharePoint (Pacote Office)
+          - Power BI — criação de dashboards e indicadores
+          - Python — automação de processos e análise de dados
+          - SQL (Banco de Dados) — consultas e manipulação de dados
+          - VBA — automações em Excel
+
+      - label: "Competências"
+        details: |
+          - Pensamento analítico e resolução de problemas
+          - Organização e melhoria contínua (5S)
+          - Comunicação clara para apoio à tomada de decisão
+          - Interesse em crescer profissionalmente e contribuir para o desenvolvimento da empresa
